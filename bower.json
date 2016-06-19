@@ -1,0 +1,26 @@
+{
+  "name": "vue-checkbox-selectall",
+  "authors": [
+    "fengyun2 <2816708306@qq.com>"
+  ],
+  "description": "vue-checkbox-selectall(vue处理表单checkbox全选)",
+  "main": "index.html",
+  "keywords": [
+    "ly",
+    "vue",
+    "checkbox"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fengyun2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.25"
+  }
+}
